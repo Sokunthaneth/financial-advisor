@@ -1,0 +1,47 @@
+- SBI LY HOUR Bank Plc
+- ACLEDA Bank
+- Agricultural and Rural Development Bank (ARDB)
+- Asia-Pacific Development Bank
+- Bridge Specialized Bank
+- Cambodia Asia Bank
+- Cambodia Post Bank (CPB)
+- Canadia Bank
+- Chip Mong Commercial Bank
+- Foreign Trade Bank of Cambodia (FTB)
+- Oriental Bank PLC
+- Prince Bank
+- Union Commercial Bank (UCB)
+- Vattanac Bank
+- Wing Bank
+- LOLC Cambodia
+- Advanced Bank of Asia (ABA)
+- AEON Specialized Bank
+- Agribank Cambodia Branch
+- Bank of China (Cambodia)
+- Bank for Investment and Development of Cambodia (BIDC)
+- Bangkok Bank (Cambodia)
+- B.I.C (Cambodia) Bank
+- Bred Bank (Cambodia)
+- Cambodian Commercial Bank
+- Cambodian Public Bank
+- CIMB Bank
+- Cathay United Bank (Cambodia)
+- CHIEF (Cambodia) Commercial Bank
+- DGB Bank
+- Hattha Bank
+- Hong Leong Bank (Cambodia)
+- J Trust Royal Bank
+- Kookmin Bank Cambodia
+- Kasikorn Bank (Cambodia)
+- Krung Thai Bank Public
+- Maybank (Cambodia)
+- Phnom Penh Commercial Bank
+- Phillip Bank
+- RHB BANK (Cambodia)
+- Sathapana Bank
+- Standard Chartered Bank
+- Sacombank Cambodia
+- Shinhan Cambodia Bank
+- Woori Bank (Cambodia)
+
+URL: https://en.wikipedia.org/wiki/List_of_banks_in_Cambodia
